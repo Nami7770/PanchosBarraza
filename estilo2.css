@@ -1,0 +1,26 @@
+html{
+background-color:#f5b041;
+font-family: "Open Sans", sans-serif;}
+h1{
+font-size: 60px;
+text-align:center;
+margin: 0;
+padding: 20px;color: #ffffff;text-shadow: 3px 3px 1px black;}
+
+p{
+color: #b03a2e;
+width: 500;
+font-size: 16px;color: #ffffff;
+letter-spacing: 1px;}
+
+img{
+display: block;
+margin: 0 auto;}
+
+body{
+width: 600px;
+margin: 0 auto;
+background-color: #b03a2e;
+padding: 0 20px 20px 20px;
+border: 5px solid black; 
+}
