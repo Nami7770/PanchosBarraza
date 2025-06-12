@@ -16,7 +16,7 @@ div.ficha{
 ul#menu{
    margin:1px;
    padding:1px;
-   list-style-type:none
+   list-style-type:none;
 }
 #menu li {
  background color: #7fb3d5;
